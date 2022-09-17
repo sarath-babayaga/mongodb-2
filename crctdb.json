@@ -1,0 +1,179 @@
+{
+    "users": {   
+    "id": "user1",
+    "name": "sarath",
+    "email": "sarathnlu1996@gmail.com",
+    "phone": 6383761630,
+    "course": "MERN Stack development",
+    "batch": "B29WE"
+    },
+    "codekata":{
+        "con1":"Input/Output",
+        "con2":"Absolute Beginner",
+        "con3":"Array",
+        "con4":"Mathematics",
+        "con5":"Strings",
+        "con6":"Basics",
+        "con7":"Companies",
+        "con8":"Guvi-Learning-Path",
+        "con9":"Looping",
+        "con10":"Numbers",
+        "con11":"Sorting",
+        "con12":"Patterns",
+        "con13":"Searching",
+        "con14":"Algorithm",
+        "con15":"Bitwise",
+        "con16":"Data Structures",
+        "con17":"Matrix",
+        "con18":"Hashing",
+        "con19":"Linked List",
+        "con20":"Bit Manipulation",
+        "con21":"Stack",
+        "con22":"Trees And Graphs",
+        "con23":"Queue",
+        "con24":"Dynamic Programming",
+        "con25":"Segment Tree"
+    },
+    "attendance":{
+        "2021":{
+            "october":{
+                "day1":"present",
+                "day2":"present",
+                "day3":"present",
+                "day4":"present",
+                "day5":"present",
+                "day6":"present",
+                "day7":"present",
+                "day8":"present"
+            },
+            "november":{
+                "day1":"present",
+                "day2":"present",
+                "day3":"absent",
+                "day4":"present",
+                "day5":"present",
+                "day6":"present",
+                "day7":"present",
+                "day8":"present"
+            },
+            "december":{
+                "day1":"present",
+                "day2":"present",
+                "day3":"present",
+                "day4":"present",
+                "day5":"absent",
+                "day6":"present",
+                "day7":"present",
+                "day8":"present"
+            }
+        },
+        "2022":{
+            "january":{
+                "day1":"present",
+                "day2":"absent",
+                "day3":"present",
+                "day4":"present",
+                "day5":"present",
+                "day6":"present",
+                "day7":"present",
+                "day8":"present"
+            },
+            "feburary":{
+                "day1":"present",
+                "day2":"present",
+                "day3":"present",
+                "day4":"absent",
+                "day5":"absent",
+                "day6":"present",
+                "day7":"present",
+                "day8":"present"
+            },
+            "march":{
+                "day1":"present",
+                "day2":"present",
+                "day3":"absent",
+                "day4":"present",
+                "day5":"present",
+                "day6":"present",
+                "day7":"present",
+                "day8":"present"
+            },
+            "april":{
+                "day1":"present",
+                "day2":"present",
+                "day3":"present",
+                "day4":"present",
+                "day5":"present",
+                "day6":"present",
+                "day7":"present",
+                "day8":"absent"
+            }
+        }
+    },
+        "topic":{
+            "topic1":"Introduction",
+            "topic2":"Basics of HTML",
+            "topic3":"Basics of CSS",
+            "topic4":"HTML & CSS",
+            "topic5":"Web Designing",
+            "topic6":"Bootstrap",
+            "topic7":"Basics of JS",
+            "topic8":"Array, Objects in JS",
+            "topic9":"Callback",
+            "topic10":"API Fetch",
+            "topic11":"React Introduction",
+            "topic12":"Components",
+            "topic13":"State, Hooks",
+            "topic14":"Designing using ReactJS",
+            "topic15":"Tasks",
+            "topic16":"NodeJS introduction",
+            "topic17":"API calling",
+            "topic18":"Postman Introduction",
+            "topic19":"CRUD opertaions",
+            "topic20":"SQL Introduction",
+            "topic21":"MongoDB Introduction",
+            "topic22":"Algorithms",
+            "topic23":"Data Structures",
+            "topic24":"AWS Basics"
+        },
+        "tasks":{
+            "task1":"HTML-CSS 01",
+            "task2":"HTML-CSS 02",
+            "task3":"HTML-CSS 03",
+            "task4":"HTML-CSS 04",
+            "task5":"HTML-CSS 05",
+            "task6":"BOOTSTRAP 01",
+            "task7":"BOOTSTRAP 02",
+            "task8":"BOOTSTRAP 03",
+            "task9":"Javascript Basics",
+            "task10":"JavaScript",
+            "task11":"JavaScript - 1",
+            "task12":"05/12/2021 Session",
+            "task13":"API Continuation",
+            "task14":"Call Back , Promise , Async , Await",
+            "task15":"CRUD Implementation with HTML, CSS & JS",
+            "task16":"ES5 VS ES6",
+            "task17":"React: Day - 1",
+            "task18":"React: Day - 2",
+            "task19":"React - Conditional Rendering",
+            "task20":"MySQL - 9/4/2022",
+            "task21":"MongoDB - 16/04/2022",
+            "task22":"MongoDB - 17/04/2022",
+            "task23":"Node JS - DAY 1 ( 23/4/2022)",
+            "task24":"Node JS - 2 (24/4/2022)"
+        },
+        "company_drives":{
+            "comp1":"Amazon",
+            "comp2":"Swiigy",
+            "comp3":"Microsoft",
+            "comp4":"Accoloite",
+            "comp5":"Zen"
+        },
+        "mentors":{
+            "mentor1":"Rajiv",
+            "mentor2":"Parth",
+            "mentor3":"Deepika",
+            "mentor4":"Prabhakaran",
+            "mentor5":"Srinivasan"
+        }
+    }
